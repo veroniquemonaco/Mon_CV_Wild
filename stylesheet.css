@@ -1,0 +1,49 @@
+body {
+	background-color:rgb(104,187,285);
+}
+
+#header {
+	text-align:center;
+}
+
+#left-box {
+
+	display:inline-block;
+	background-color:rgb(9,30,45);
+	color:#fff;
+	float:left;
+	width:30%;
+	height:663px;
+	padding:15px;
+	margin:15px 20px 0 0;
+
+}
+
+img{
+	width:125px;
+}
+
+#right-box {
+
+	display:inline-block;
+	width:40%;
+	padding:15px;
+	
+}
+
+#experiences-box {
+
+	background-color:#fff;
+	padding:15px;
+}
+
+#studies-box {
+	background-color:#fff;
+	padding:15px;
+
+}
+
+#footer{
+	text-align:center;
+}
+
